@@ -1,0 +1,4 @@
+*.csv
+*.jpg
+php/config.php
+test.php
